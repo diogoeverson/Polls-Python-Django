@@ -1,1 +1,1 @@
-# Polls_Python_Django
+# Experimento de implementação de CRUD com Python e Django.
